@@ -1,0 +1,19 @@
+2025-07-18 11:38:31 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-07-18 11:38:32 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-07-18 11:38:33 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-07-18 11:38:33 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-07-18 11:38:35 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2025-07-18 11:38:35 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2025-07-18 11:38:35 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-18 11:38:40 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-07-18 12:44:12 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Lokesh\.m2\EcommersFrameWord\OpencartApplication\master.xml
+
+2025-07-18 12:44:21 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-07-18 12:44:22 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-07-18 12:44:23 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-07-18 12:44:23 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-07-18 12:44:25 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2025-07-18 12:44:25 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2025-07-18 12:44:25 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-18 12:44:30 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
